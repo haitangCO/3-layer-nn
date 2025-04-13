@@ -17,9 +17,8 @@
 ├── hyper_search.py          # 网格搜索，寻找最优超参数
 ├── model_visualization.py   # 用于可视化训练后的权重
 ├── utils.py                 # 数据预处理与工具函数
-├── best_model.npz           # 训练得到的最佳模型参数（可下载）
 ├── grid_search_log.csv      # 网格搜索记录日志
-└── report.pdf               # 实验报告
+
 ```
 
 ## 🚀 快速开始
