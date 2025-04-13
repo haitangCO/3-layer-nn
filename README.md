@@ -71,12 +71,6 @@ python model_visualization.py
 
 最终在测试集上取得 **50%+ 准确率**（不同初始化下略有浮动）。
 
-## 📦 模型权重和可视化结果下载
-
-训练好的模型权重文件（`best_model.npz`）和可视化图片（vis_weights文件夹和figure_1）可通过以下链接下载：
-
-链接: https://pan.baidu.com/s/1GC2LzmY6Sq3vXsFaOH0rWA?pwd=qikc 提取码: qikc 
---来自百度网盘超级会员v4的分享
 
 
 ---
