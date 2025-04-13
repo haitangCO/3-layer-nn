@@ -79,11 +79,6 @@ python model_visualization.py
 --来自百度网盘超级会员v4的分享
 
 
-## 📄 实验报告
-
-实验详细分析及可视化图表请见：[report.pdf](./report.pdf)
-
-
 ---
 
 如需复现本实验，欢迎克隆仓库后参考上文步骤。欢迎 star 或提 issue 交流！
